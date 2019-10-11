@@ -1,1 +1,3 @@
-# Golang 101 Workshop @ HackConf 2019
+# please-go-away
+
+Make art out of your image by running this Golang file
